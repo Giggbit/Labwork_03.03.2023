@@ -27,7 +27,16 @@ namespace Labwork_03._03._2023
             #endregion
 
             #region ex2
+            /*string[] mas = { "привет", "меня", "зовут" };
 
+            string pattern = @"[а]|[о]|[у]|[и]|[ю]|[е]|[я]|[ы]|[э]";
+            Regex regex = new Regex(pattern);
+
+            foreach(string s in mas) { 
+                if (regex.IsMatch(s)) {
+                    Console.WriteLine("Совпадение: {0}", s);
+                }
+            }*/
             #endregion
 
             #region ex3
